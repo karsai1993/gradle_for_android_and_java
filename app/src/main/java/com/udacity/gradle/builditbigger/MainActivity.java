@@ -3,7 +3,6 @@ package com.udacity.gradle.builditbigger;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.VisibleForTesting;
-import android.support.test.espresso.IdlingResource;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -14,7 +13,6 @@ import udacity.com.javajokes.JokeProvider;
 
 public class MainActivity extends AppCompatActivity {
 
-    private JokeProvider mJokeProvider;
     private SimpleIdlingResource mIdlingResource;
 
     @VisibleForTesting
@@ -30,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mJokeProvider = new JokeProvider();
     }
 
 
