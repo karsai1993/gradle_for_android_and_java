@@ -1,27 +1,23 @@
 Warning: Google App Engine Java 7 runtime is deprecated.
 Warning: See https://cloud.google.com/appengine/docs/deprecations/java7
-Apr 28, 2018 10:42:55 PM java.util.prefs.WindowsPreferences <init>
+Apr 28, 2018 11:09:15 PM java.util.prefs.WindowsPreferences <init>
 WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
-Apr 28, 2018 10:42:56 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+Apr 28, 2018 11:09:16 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
 INFO: Overwriting system property key 'java.util.logging.config.file', value 'C:\Users\Laci\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\google_appengine\google\appengine\tools\java\config\sdk\logging.properties' with value 'WEB-INF/logging.properties' from 'C:\Users\Laci\Nanodegree\gradle_for_android_and_java\backend\build\exploded-backend\WEB-INF\appengine-web.xml'
-Apr 28, 2018 10:42:56 PM com.google.apphosting.utils.jetty.JettyLogger info
+Apr 28, 2018 11:09:16 PM com.google.apphosting.utils.jetty.JettyLogger info
 INFO: Logging to JettyLogger(null) via com.google.apphosting.utils.jetty.JettyLogger
-Apr 28, 2018 8:42:57 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+Apr 28, 2018 9:09:16 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
 WARNING: Your working directory, (C:\Users\Laci\Nanodegree\gradle_for_android_and_java) is not equal to your 
 web application root (C:\Users\Laci\Nanodegree\gradle_for_android_and_java\backend\build\exploded-backend)
 You will not be able to access files from your working directory on the production server.
 
-Apr 28, 2018 8:42:57 PM com.google.apphosting.utils.jetty.JettyLogger info
+Apr 28, 2018 9:09:17 PM com.google.apphosting.utils.jetty.JettyLogger info
 INFO: jetty-6.1.x
-Apr 28, 2018 8:42:59 PM com.google.apphosting.utils.jetty.JettyLogger info
+Apr 28, 2018 9:09:19 PM com.google.apphosting.utils.jetty.JettyLogger info
 INFO: Started SelectChannelConnector@localhost:8080
-Apr 28, 2018 8:42:59 PM com.google.appengine.tools.development.AbstractModule startup
+Apr 28, 2018 9:09:19 PM com.google.appengine.tools.development.AbstractModule startup
 INFO: Module instance default is running at http://localhost:8080/
-Apr 28, 2018 8:42:59 PM com.google.appengine.tools.development.AbstractModule startup
+Apr 28, 2018 9:09:19 PM com.google.appengine.tools.development.AbstractModule startup
 INFO: The admin console is running at http://localhost:8080/_ah/admin
-Apr 28, 2018 10:42:59 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+Apr 28, 2018 11:09:19 PM com.google.appengine.tools.development.DevAppServerImpl doStart
 INFO: Dev App Server is now running
-Apr 28, 2018 10:43:06 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeByteBufferOperations
-WARNING: platform method missing - proto runtime falling back to safer methods: java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "accessClassInPackage.sun.misc")
-Apr 28, 2018 10:43:06 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeArrayOperations
-WARNING: platform method missing - proto runtime falling back to safer methods: java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "accessClassInPackage.sun.misc")

@@ -6,7 +6,12 @@
         <activity
             android:name=".JokeActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme"/>
+            android:theme="@style/AppTheme"
+            android:parentActivityName="com.udacity.gradle.builditbigger.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.udacity.gradle.builditbigger.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

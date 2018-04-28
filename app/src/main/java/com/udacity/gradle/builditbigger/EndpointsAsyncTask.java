@@ -16,14 +16,27 @@ import udacity.com.androidjokes.JokeActivity;
 
 /**
  * Created by Laci on 28/04/2018.
+ * The basic idea of this class if from here:
+ * https://github.com/GoogleCloudPlatform/gradle-appengine-templates/tree/77e9910911d5412e5efede5fa681ec105a0f02ad/HelloEndpoints
  */
 
-public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
+public class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
     private static MyApi myApiService = null;
-    private Context context;
+    private Context mContext;
+    private SimpleIdlingResource mIdlingResource;
+
+    public EndpointsAsyncTask(Context context, SimpleIdlingResource idlingResource) {
+        this.mContext = context;
+        this.mIdlingResource = idlingResource;
+    }
 
     @Override
-    protected String doInBackground(Context... contexts) {
+    protected void onPreExecute() {
+        if (mIdlingResource != null) mIdlingResource.setIdleState(false);
+    }
+
+    @Override
+    protected String doInBackground(Void... contexts) {
         if(myApiService == null) {
             MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                     new AndroidJsonFactory(), null)
@@ -37,8 +50,6 @@ public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
             myApiService = builder.build();
         }
 
-        context = contexts[0];
-
         try {
             return myApiService.pullJoke().execute().getData();
         } catch (IOException e) {
@@ -48,11 +59,15 @@ public class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
 
     @Override
     protected void onPostExecute(String result) {
+        if (mIdlingResource != null) {
+            mIdlingResource.setAsyncTaskResultJoke(result);
+            mIdlingResource.setIdleState(true);
+        }
         Intent startJokeActivityIntent = new Intent(
-                context,
+                mContext,
                 JokeActivity.class
         );
         startJokeActivityIntent.putExtra(Intent.EXTRA_TEXT, result);
-        context.startActivity(startJokeActivityIntent);
+        mContext.startActivity(startJokeActivityIntent);
     }
 }
