@@ -50,11 +50,6 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void tellJoke(View view) {
-        Intent startJokeActivityIntent = new Intent(
-                MainActivity.this,
-                JokeActivity.class
-        );
-        startJokeActivityIntent.putExtra(Intent.EXTRA_TEXT, mJokeProvider.getJoke());
-        startActivity(startJokeActivityIntent);
+        new EndpointsAsyncTask().execute(this);
     }
 }
