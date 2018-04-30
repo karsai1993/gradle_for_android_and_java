@@ -32,12 +32,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -192,12 +192,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
@@ -228,12 +228,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\color_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -468,12 +468,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_abc_ic_clear_material.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
@@ -596,12 +596,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\anim_tooltip_exit.xml.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\anim\\tooltip_exit.xml"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\anim_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\anim\\tooltip_exit.xml"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\res\\merged\\free\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",

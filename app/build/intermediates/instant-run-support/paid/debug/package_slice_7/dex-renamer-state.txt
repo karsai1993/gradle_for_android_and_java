@@ -1,4 +1,4 @@
-#Mon Apr 30 23:55:56 CEST 2018
+#Tue May 01 00:15:53 CEST 2018
 base.0=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\paid\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex

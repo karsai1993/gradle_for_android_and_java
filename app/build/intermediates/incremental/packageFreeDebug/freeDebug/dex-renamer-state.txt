@@ -1,16 +1,19 @@
-#Mon Apr 30 23:52:47 CEST 2018
-path.3=classes.dex
-path.2=classes.dex
+#Tue May 01 00:30:49 CEST 2018
 path.1=classes.dex
-renamed.4=classes5.dex
 path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
-base.4=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\11
 renamed.0=classes.dex
-base.3=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\41
-base.2=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\40
-base.1=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\42
-base.0=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\39
+base.5=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\58
+base.4=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\55
+base.3=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\57
+base.2=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\54
+base.1=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\56
+base.0=C\:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\app\\build\\intermediates\\transforms\\dexMerger\\free\\debug\\53
+path.5=classes.dex
 path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

@@ -6,28 +6,28 @@ INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\
 INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11a089eb6eb441b978662c9553f6a11d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:17:1-25:12
 MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.1.aar\a5c5b184d9c9944e51bead9cb05013f0\AndroidManifest.xml:17:1-21:12
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\dd0ec814a30d843191e5eb07e9ed3456\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\5e7846ec5b8fe0a5b34f0a651e0c836d\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\86ce46cec0e1fe46d65037e7f20f6b50\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:17:1-30:12
 INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\free\AndroidManifest.xml:2:1-36:12
 INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\free\AndroidManifest.xml:2:1-36:12
@@ -76,20 +76,16 @@ MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\tra
 MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\dd0ec814a30d843191e5eb07e9ed3456\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\dd0ec814a30d843191e5eb07e9ed3456\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\5e7846ec5b8fe0a5b34f0a651e0c836d\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\5e7846ec5b8fe0a5b34f0a651e0c836d\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\86ce46cec0e1fe46d65037e7f20f6b50\AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\86ce46cec0e1fe46d65037e7f20f6b50\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:22:5-26:19
@@ -98,6 +94,8 @@ MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:25:5-29:19
@@ -108,6 +106,8 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\c
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:22:5-20
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:24:5-28:19
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:24:5-28:19
 	android:label
@@ -144,8 +144,6 @@ INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\
 INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11a089eb6eb441b978662c9553f6a11d\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11a089eb6eb441b978662c9553f6a11d\AndroidManifest.xml:20:5-43
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:21:5-23:62
 MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:5:5-7:41
@@ -154,22 +152,20 @@ MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\tra
 MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.1.aar\a5c5b184d9c9944e51bead9cb05013f0\AndroidManifest.xml:19:3-70
 MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.1.aar\a5c5b184d9c9944e51bead9cb05013f0\AndroidManifest.xml:19:3-70
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\dd0ec814a30d843191e5eb07e9ed3456\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\dd0ec814a30d843191e5eb07e9ed3456\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\5e7846ec5b8fe0a5b34f0a651e0c836d\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\5e7846ec5b8fe0a5b34f0a651e0c836d\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\6ca8233a7971363ab4ee8ef5cf2ac090\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\86ce46cec0e1fe46d65037e7f20f6b50\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\86ce46cec0e1fe46d65037e7f20f6b50\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:20:5-44
@@ -178,6 +174,8 @@ MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:21:5-23:60
@@ -188,12 +186,14 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\c
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\682791afc2da2705b5475486409984f8\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:20:5-22:41
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:20:5-22:41
 INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\free\AndroidManifest.xml
 INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\free\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\1166ac6267e408772d1396e18f28c131\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\free\AndroidManifest.xml
@@ -240,8 +240,6 @@ meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:26:9-28:38
@@ -252,6 +250,8 @@ MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\d9d239172cb0a7dab7fd0e63442a5367\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:26:9-28:38
