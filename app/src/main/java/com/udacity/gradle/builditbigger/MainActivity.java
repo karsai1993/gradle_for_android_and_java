@@ -7,11 +7,20 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
+
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 
 
 public class MainActivity extends AppCompatActivity {
 
     private SimpleIdlingResource mIdlingResource;
+    private InterstitialAd mInterstitialAd;
+    private static final String INTERSTITIAL_AD_WAIT_REQUEST
+            = "Please, try it some moments later again!";
+    private Toast mToast;
 
     @VisibleForTesting
     @NonNull
@@ -22,10 +31,30 @@ public class MainActivity extends AppCompatActivity {
         return mIdlingResource;
     }
 
+    @VisibleForTesting
+    @NonNull
+    public InterstitialAd getInterstitialAd() {
+        return mInterstitialAd;
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId(getResources().getString(R.string.interstitial_ad_unit_id));
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
+        mInterstitialAd.setAdListener(new AdListener(){
+            @Override
+            public void onAdOpened() {
+                if (mToast != null) mToast.cancel();
+            }
+
+            @Override
+            public void onAdClosed() {
+                new EndpointsAsyncTask(MainActivity.this, mIdlingResource).execute();
+            }
+        });
     }
 
 
@@ -56,6 +85,12 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void tellJoke(View view) {
-        new EndpointsAsyncTask(this, mIdlingResource).execute();
+        if (mInterstitialAd.isLoaded()) {
+            mInterstitialAd.show();
+        } else {
+            if (mToast != null) mToast.cancel();
+            mToast = Toast.makeText(this, INTERSTITIAL_AD_WAIT_REQUEST, Toast.LENGTH_LONG);
+            mToast.show();
+        }
     }
 }

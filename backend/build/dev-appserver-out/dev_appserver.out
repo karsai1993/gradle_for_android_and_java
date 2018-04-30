@@ -1,34 +1,29 @@
 Warning: Google App Engine Java 7 runtime is deprecated.
 Warning: See https://cloud.google.com/appengine/docs/deprecations/java7
-Apr 30, 2018 9:38:12 PM java.util.prefs.WindowsPreferences <init>
+Apr 30, 2018 11:22:09 PM java.util.prefs.WindowsPreferences <init>
 WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
-Apr 30, 2018 9:38:13 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
+Apr 30, 2018 11:22:10 PM com.google.appengine.tools.development.SystemPropertiesManager setSystemProperties
 INFO: Overwriting system property key 'java.util.logging.config.file', value 'C:\Users\Laci\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\google_appengine\google\appengine\tools\java\config\sdk\logging.properties' with value 'WEB-INF/logging.properties' from 'C:\Users\Laci\Nanodegree\gradle_for_android_and_java\backend\build\exploded-backend\WEB-INF\appengine-web.xml'
-Apr 30, 2018 9:38:13 PM com.google.apphosting.utils.jetty.JettyLogger info
+Apr 30, 2018 11:22:10 PM com.google.apphosting.utils.jetty.JettyLogger info
 INFO: Logging to JettyLogger(null) via com.google.apphosting.utils.jetty.JettyLogger
-Apr 30, 2018 7:38:13 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
+Apr 30, 2018 9:22:11 PM com.google.appengine.tools.development.IsolatedAppClassLoader checkWorkingDirectory
 WARNING: Your working directory, (C:\Users\Laci\Nanodegree\gradle_for_android_and_java) is not equal to your 
 web application root (C:\Users\Laci\Nanodegree\gradle_for_android_and_java\backend\build\exploded-backend)
 You will not be able to access files from your working directory on the production server.
 
-Apr 30, 2018 7:38:14 PM com.google.apphosting.utils.jetty.JettyLogger info
+Apr 30, 2018 9:22:11 PM com.google.apphosting.utils.jetty.JettyLogger info
 INFO: jetty-6.1.x
-Apr 30, 2018 7:38:16 PM com.google.apphosting.utils.jetty.JettyLogger info
+Apr 30, 2018 9:22:14 PM com.google.apphosting.utils.jetty.JettyLogger info
 INFO: Started SelectChannelConnector@localhost:8080
-Apr 30, 2018 7:38:16 PM com.google.appengine.tools.development.AbstractModule startup
+Apr 30, 2018 9:22:14 PM com.google.appengine.tools.development.AbstractModule startup
 INFO: Module instance default is running at http://localhost:8080/
-Apr 30, 2018 7:38:16 PM com.google.appengine.tools.development.AbstractModule startup
+Apr 30, 2018 9:22:14 PM com.google.appengine.tools.development.AbstractModule startup
 INFO: The admin console is running at http://localhost:8080/_ah/admin
-Apr 30, 2018 9:38:16 PM com.google.appengine.tools.development.DevAppServerImpl doStart
+Apr 30, 2018 11:22:14 PM com.google.appengine.tools.development.DevAppServerImpl doStart
 INFO: Dev App Server is now running
-Apr 30, 2018 9:38:23 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeByteBufferOperations
+Apr 30, 2018 11:22:18 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeByteBufferOperations
 WARNING: platform method missing - proto runtime falling back to safer methods: java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "accessClassInPackage.sun.misc")
-Apr 30, 2018 9:38:23 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeArrayOperations
+Apr 30, 2018 11:22:18 PM com.google.appengine.repackaged.com.google.protobuf.UnsafeUtil supportsUnsafeArrayOperations
 WARNING: platform method missing - proto runtime falling back to safer methods: java.security.AccessControlException: access denied ("java.lang.RuntimePermission" "accessClassInPackage.sun.misc")
-Apr 30, 2018 9:38:24 PM com.google.appengine.tools.development.LocalResourceFileServlet doGet
+Apr 30, 2018 11:22:20 PM com.google.appengine.tools.development.LocalResourceFileServlet doGet
 WARNING: No file found for: /favicon.ico
-Apr 30, 2018 9:44:15 PM com.google.appengine.tools.development.AbstractModule shutdown
-INFO: Shutting down module instance default
-Shutting down.
-Apr 30, 2018 9:44:15 PM com.google.appengine.api.datastore.dev.LocalDatastoreService cleanupActiveServices
-INFO: scheduler shutting down.
