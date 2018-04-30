@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_item.xml.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_tab_text.xml.flat",
@@ -36,28 +36,28 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_design_fab_background.xml.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\drawable\\design_fab_background.xml"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_dialog_title_material.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -84,12 +84,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -120,12 +120,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
@@ -140,12 +140,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_snackbar_include.xml.flat",
@@ -176,12 +176,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -204,24 +204,24 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim_design_snackbar_in.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -324,28 +324,28 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_tooltip_frame_light.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -536,12 +536,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\d90969f0760fc26fbb9377975e4ff781\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23_abc_tint_switch_track.xml.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\color-v23\\abc_tint_switch_track.xml"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -608,12 +608,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable_abc_cab_background_top_material.xml.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_design_layout_snackbar.xml.flat",
@@ -632,12 +632,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_title_item.xml.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\layout\\abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout_notification_template_media.xml.flat",
@@ -652,12 +652,12 @@
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\450d7e9ba46699e114880518653fefee\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Laci\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\79278d398cc42bec1c0d42b8720011f6\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Laci\\Nanodegree\\gradle_for_android_and_java\\androidjokes\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
