@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\androidTest\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\androidTestDebug\jniLibs"/></dataSet></merger>

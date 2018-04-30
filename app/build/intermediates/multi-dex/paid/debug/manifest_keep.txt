@@ -1,0 +1,3 @@
+# Referenced at C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\build\intermediates\manifests\full\paid\debug\AndroidManifest.xml:15
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

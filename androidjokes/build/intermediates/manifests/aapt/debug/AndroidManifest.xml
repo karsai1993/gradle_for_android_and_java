@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="udacity.com.androidjokes"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <application>
+        <activity
+            android:name="udacity.com.androidjokes.JokeActivity"
+            android:label="@string/title_activity_main"
+            android:parentActivityName="com.udacity.gradle.builditbigger.MainActivity"
+            android:theme="@style/AppTheme" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.udacity.gradle.builditbigger.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>

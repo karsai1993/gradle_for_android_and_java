@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.1.aar\a5c5b184d9c9944e51bead9cb05013f0\AndroidManifest.xml:17:1-21:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11a089eb6eb441b978662c9553f6a11d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:4:5-47
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-21:19
+MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:13:9-41
+	tools:ignore
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:11:9-36
+	android:theme
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.udacity.gradle.builditbigger.MainActivity
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:17:9-25:20
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:17:9-25:20
+MERGED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:18:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\2d307fbc0b0345002027c1ae239259c0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.1.aar\a5c5b184d9c9944e51bead9cb05013f0\AndroidManifest.xml:19:3-70
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.1.aar\a5c5b184d9c9944e51bead9cb05013f0\AndroidManifest.xml:19:3-70
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11a089eb6eb441b978662c9553f6a11d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\11a089eb6eb441b978662c9553f6a11d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Laci\Nanodegree\gradle_for_android_and_java\app\src\paid\AndroidManifest.xml
+activity#udacity.com.androidjokes.JokeActivity
+ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:12:9-20:20
+	android:parentActivityName
+		ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:15:13-87
+	android:label
+		ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:14:13-56
+	android:theme
+		ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:16:13-44
+	android:name
+		ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:13:13-65
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:17:13-19:81
+	android:value
+		ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:19:17-78
+	android:name
+		ADDED from [:androidjokes] C:\Users\Laci\Nanodegree\gradle_for_android_and_java\androidjokes\build\intermediates\manifests\full\release\AndroidManifest.xml:18:17-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\450d7e9ba46699e114880518653fefee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\93f1364339daccf23c7154688d7ed928\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\7ee7e89d503d1dfec8d7e10cda0c7399\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\246936cc460495a7b259ac9f38ac5b2f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\7bd16b1ff066b8fdb3709e5cacdfe565\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2c1d4577be3d3693c88e676664adf643\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\62bcc509d4fdc95e071e521059d3b9c6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\25435c2ab9bf8583833ea2069e573e18\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\7d2d7c2dab3e361ae051a6a81fd5e9e9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4cb670cb525151311d6ee6b0cb5ac2bb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\79278d398cc42bec1c0d42b8720011f6\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d90969f0760fc26fbb9377975e4ff781\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Laci\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\6a422816d27db7798045036520cd0e97\AndroidManifest.xml:26:13-58
