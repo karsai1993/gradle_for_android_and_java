@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="distance">16dp</dimen>
-    <string name="app_name">androidJokes</string>
-    <string name="title_activity_main">Here is your joke! :)</string>
-    <style name="AppTheme" parent="Theme.AppCompat.Light"/>
-    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
-    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
-</resources>

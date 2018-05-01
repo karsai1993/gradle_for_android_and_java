@@ -62,3 +62,26 @@ dependencies {
     implementation project(':javajokes')
     implementation project(':androidjokes')
 }
+
+task startDevServerAndInvokeTest () {
+    dependsOn ":backend:appengineStart"
+    finalizedBy "runTestAndInvokeDevServerStop"
+    doLast {
+        println "server started"
+    }
+}
+
+task runTestAndInvokeDevServerStop () {
+    dependsOn ":app:connectedAndroidTest"
+    finalizedBy "stopDevServer"
+    doLast {
+        println "test performed"
+    }
+}
+
+task stopDevServer () {
+    dependsOn ":backend:appengineStop"
+    doLast {
+        println "server stopped"
+    }
+}
