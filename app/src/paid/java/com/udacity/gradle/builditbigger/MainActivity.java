@@ -76,7 +76,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * Created by Laci on 28/04/2018.
      * The basic idea of this class if from here:
      * https://github.com/GoogleCloudPlatform/gradle-appengine-templates/tree/77e9910911d5412e5efede5fa681ec105a0f02ad/HelloEndpoints
      */
@@ -101,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
             if(myApiService == null) {
                 MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                         new AndroidJsonFactory(), null)
-                        .setRootUrl("http://10.0.2.2:8080/_ah/api/")
+                        .setRootUrl(getResources().getString(R.string.root_url))
                         .setGoogleClientRequestInitializer(new GoogleClientRequestInitializer() {
                             @Override
                             public void initialize(
