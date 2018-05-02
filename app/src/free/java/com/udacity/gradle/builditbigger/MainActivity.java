@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String INTERSTITIAL_AD_WAIT_REQUEST
             = "Please, try it some moments later again!";
     private Toast mToast;
-    private ProgressBar mProgressBar;
+    private static ProgressBar mProgressBar;
 
     @VisibleForTesting
     @NonNull
@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity {
      * The basic idea of this class if from here:
      * https://github.com/GoogleCloudPlatform/gradle-appengine-templates/tree/77e9910911d5412e5efede5fa681ec105a0f02ad/HelloEndpoints
      */
-    class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
+    static class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
         private MyApi myApiService = null;
         private Context mContext;
         private SimpleIdlingResource mIdlingResource;
@@ -134,7 +134,7 @@ public class MainActivity extends AppCompatActivity {
             if(myApiService == null) {
                 MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
                         new AndroidJsonFactory(), null)
-                        .setRootUrl(getResources().getString(R.string.root_url))
+                        .setRootUrl(mContext.getResources().getString(R.string.root_url))
                         .setGoogleClientRequestInitializer(new GoogleClientRequestInitializer() {
                             @Override
                             public void initialize(
